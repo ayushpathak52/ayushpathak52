@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **HTML, CSS, JavaScript, React.JS**
 
-- 📫 How to reach me **vikash.tomar.india@gmail.com**
+- 📫 How to reach me **kumarayush9527@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
